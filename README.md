@@ -14,4 +14,4 @@ Assignment page - https://cmsc733.github.io/2022/proj/p1/#ph2
 Refer to Proj1-supervised.ipynb for Supervised learning implementation (Using Pytorch)
 Refer to Proj1-unsupervised.ipynb for Supervised learning implementation (Using Pytorch)
 
-Report - report.pdf
+Report -[ report.pdf](https://drive.google.com/file/d/1-8a74MgVU61a8BRtVd84nqc_SDDDNH7W/view?usp=sharing)
